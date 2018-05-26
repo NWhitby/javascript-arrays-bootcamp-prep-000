@@ -14,7 +14,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array;
 }
 
-function accessElementinArray(array, index) {
+function accessElementInArray(array, index) {
   array[index];
   return index;
 }
