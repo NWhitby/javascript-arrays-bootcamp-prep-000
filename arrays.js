@@ -13,3 +13,20 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   array.unshift(element);
 }
 
+function accessElementsArray(array, index) {
+  return array[index];
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
